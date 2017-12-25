@@ -11,6 +11,7 @@
     * Vue
   * [叉叉开发](cha-cha-kai-fa.md)
     * [提示](cha-cha-kai-fa/ti-shi.md)
+    * [模拟器操作](cha-cha-kai-fa/mo-ni-qi-cao-zuo.md)
   * Linux
     * 常用命令
 
